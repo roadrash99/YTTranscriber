@@ -16,7 +16,7 @@ This AI-powered web application uses Google Generative AI and Streamlit to trans
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/roadrash99/YTTranscriber.git
-    cd YouTube-Transcriber-Summarizer
+    cd YTTranscriber
     ```
 
 2. **Install Required Packages**:
